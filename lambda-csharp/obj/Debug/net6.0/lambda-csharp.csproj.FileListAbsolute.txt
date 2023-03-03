@@ -1,0 +1,15 @@
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\lambda-csharp.csproj.AssemblyReference.cache
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\lambda-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\lambda-csharp.AssemblyInfoInputs.cache
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\lambda-csharp.AssemblyInfo.cs
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\lambda-csharp.csproj.CoreCompileInputs.cache
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\bin\Debug\net6.0\lambda-csharp.exe
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\bin\Debug\net6.0\lambda-csharp.deps.json
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\bin\Debug\net6.0\lambda-csharp.runtimeconfig.json
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\bin\Debug\net6.0\lambda-csharp.dll
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\bin\Debug\net6.0\lambda-csharp.pdb
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\lambda-csharp.dll
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\refint\lambda-csharp.dll
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\lambda-csharp.pdb
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\lambda-csharp.genruntimeconfig.cache
+D:\Projetos\CSharp\lambda-csharp\lambda-csharp\obj\Debug\net6.0\ref\lambda-csharp.dll
